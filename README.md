@@ -1,6 +1,6 @@
 # Backend API for User Authentication and Registration using Spring Boot and JWT Tokens
 
-create a backend for a login and signup REST API with security features and web tokens for authentication. You will be using the H2 database for this assignment, and the project should be built on the Spring Boot framework
+Create a backend for a login and signup REST API with security features and web tokens for authentication. We will be using the H2 database and Spring Boot framework
 
 ## Installation and Setup
 
@@ -58,7 +58,7 @@ You can use Postman to test the API endpoints.
 ### 1. Clone the Repository
 
 ```
-git clone 
+git clone https://github.com/v-rinda/Vrinda_RestAPI.git
 ```
 
 ### 2. Run the Application
