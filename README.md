@@ -1,4 +1,4 @@
-# Login and Signup Backend API with Security and JWT Tokens
+# Backend API for User Authentication and Registration using Spring Boot and JWT Tokens
 
 create a backend for a login and signup REST API with security features and web tokens for authentication. You will be using the H2 database for this assignment, and the project should be built on the Spring Boot framework
 
